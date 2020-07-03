@@ -29,7 +29,7 @@
 
 #3. 방학때 볼 작품들
 - 부부의 세계  
-![부부의 세계](https://upload.wikimedia.org/wikipedia/ko/thumb/2/23/%EB%B6%80%EB%B6%80%EC%9D%98_%EC%84%B8%EA%B3%84_%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg/250px-%EB%B6%80%EB%B6%80%EC%9D%98_%EC%84%B8%EA%B3%84_%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg)
+![부부의 세계](https://post-phinf.pstatic.net/MjAyMDA0MTBfNTkg/MDAxNTg2NDgyNzQ5NjI3.gLfwyhJGoqwP6VTPcSYiyNdPWxDQq-MBEPsRO2wqR64g.1w-PUHmZf-yfeDSkypRN9iQkLa6OZvni05sgi5XFKBUg.PNG/%EB%8C%80%EC%A7%80_19_%EC%82%AC%EB%B3%B8.png?type=w1200)
 - 사이코지만 괜찮아
 ![사이코지만 괜찮아](https://image.ytn.co.kr/general/jpg/2020/0616/202006161020247011_d.jpg)
 - 살아있다  
