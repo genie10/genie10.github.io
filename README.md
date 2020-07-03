@@ -34,7 +34,3 @@
 ![사이코지만 괜찮아](https://image.ytn.co.kr/general/jpg/2020/0616/202006161020247011_d.jpg)  
 - 살아있다  
 ![살아있다](https://post-phinf.pstatic.net/MjAyMDA1MjdfMjQz/MDAxNTkwNTQyMjUxOTUx.4xhB-8ALMzi5Nod8DPZmfU2QET1BKT-pU6wp_N4Y9lwg.9MbDNBzN48wHQ8cBLvtGtz9wBQZ6QIMwxtKu5OGiQLEg.JPEG/%EC%82%B4%EC%95%84%EC%9E%88%EB%8B%A4_%EB%A9%94%EC%9D%B8_%ED%8F%AC%EC%8A%A4%ED%84%B0_0624%28%EC%A0%80%EC%9A%A9%EB%9F%89%29.jpg?type=w1200)  
-- 기묘한 이야기  
-![기묘한 이야기](https://search.pstatic.net/common/?src=http%3A%2F%2Fpost.phinf.naver.net%2FMjAxOTAyMTRfMjY3%2FMDAxNTUwMTIyMzAzMjIw.CDo7I0ABPW4nyegVUdGmD_q9ebjM1dTNzEybfneZ8BQg.TqmxTi1lo4MDnJAuoi6Azf9lIdGja2FRPBxlyCRVKl8g.JPEG%2FI3XJr32KQay12pA08xg9y62KQO8Y.jpg&type=b400)
-- 굿 플레이스
-![굿 플레이스](http://blogfiles.naver.net/MjAxODAyMTdfMjUw/MDAxNTE4ODMzMjY2MTM1.emKE6wf8-DKrr40NQTbsakZH0Nme6Ik4phfqt1EUj8Yg.TiTyldSARbnL-ys--vu5EWSixvqUKi7YmMfJS6g-1Tgg.JPEG.harhhyks/MV5BMjI4MjAwOTg0OV5BMl5BanBnXkFtZTgwODU5ODE5ODE._V1_.jpg)
