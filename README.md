@@ -9,16 +9,10 @@
 : 명작 발견 및 감상, 디저트, 게임, 그림, 공상, 여행, 새로운 분야를 알 때, 계획에 맞춰 일을 마칠때, 퇴근.
 - 싫어하는 것  
 : 약속을 지키지 않는 것, 배부르게 먹는 것, 사고가 틀에 박혀진다거나 날 그 틀에 우겨 넣는 것을 싫어함, 강요당하거나 하는 것을 좋아하지 않음, 쓸데 없는 규칙들, 잔소리.
+>
 
-#2. 올해의 추천 명작
-- 부부의 세계  
-: 안 본 사람은 있어도 이름을 모르는 사람은 없는 드라마. 근래 보기 드믈게 연출과 음악, 스토리가 잘 어울러진 작품이었다. 스토리는 내 취향이 아니었지만 배우들의 명품 연기에 이끌려 어느새 마지막화 빼고 정주행하게 된 드라마. 마지막화를 보고나서 적은 코멘트가 다 악평이 될 것 같긴 하지만 비극적인 스토리를 좋아하면 봐도 좋은 드라마.
-
-- 사이코지만 괜찮아  
-: 제목이 별로지만 괜찮은 작품. 연출, 드라마, 음악, 연기 어느것 하나 빠지는게 없이 서로 앙상블을 이룬다. 보통 사이코 역을 맡은 배우가 오버하거나 작가가 사이코를 과장되게 표현해서 사이코라는 소재를 잘 살린 드라는 거의 없다. 드믈게도 이 작품은 배우도 작가도 사이코라는 소재를 적절히 잘 표현해 독특한 매력이 돋보인다. 사이코라는 소재를 써서 드라마 분위기가 쳐지는 경우가 생기는데 동화라는 소재를 더해서 작품의 분위기를 살리면서 환기를 적절히 한게 좋았다. 특히 문상태의 시선에서 본 세상의 연출은 아이다운 생각을 잘 표현했고, 정말 아름다웠다. 그 장면은 오랫동안 기억에 남을 것 같다.
-  
-#3. 시간표
-- 2020.1학기
+#2. 시간표
+- *2020.1학기*
 
 | 과목 | 월요일 | 화요일 | 수요일 | 목요일 | 금요일 |
 |-----|-------|-------|-------|-------|-------|
@@ -31,3 +25,16 @@
 |인성채플| 3교시 | | | | |
 |기업가정신| 8교시 | | | | |
 |사제동행세미나| | | 5교시 | | |
+>
+
+#3. 방학때 볼 작품들
+- 부부의 세계  
+![부부의 세계](https://post-phinf.pstatic.net/MjAyMDA0MTBfNTkg/MDAxNTg2NDgyNzQ5NjI3.gLfwyhJGoqwP6VTPcSYiyNdPWxDQq-MBEPsRO2wqR64g.1w-PUHmZf-yfeDSkypRN9iQkLa6OZvni05sgi5XFKBUg.PNG/%EB%8C%80%EC%A7%80_19_%EC%82%AC%EB%B3%B8.png?type=w1200)  
+- 사이코지만 괜찮아  
+![사이코지만 괜찮아](https://image.ytn.co.kr/general/jpg/2020/0616/202006161020247011_d.jpg)  
+- 살아있다  
+![살아있다](https://post-phinf.pstatic.net/MjAyMDA1MjdfMjQz/MDAxNTkwNTQyMjUxOTUx.4xhB-8ALMzi5Nod8DPZmfU2QET1BKT-pU6wp_N4Y9lwg.9MbDNBzN48wHQ8cBLvtGtz9wBQZ6QIMwxtKu5OGiQLEg.JPEG/%EC%82%B4%EC%95%84%EC%9E%88%EB%8B%A4_%EB%A9%94%EC%9D%B8_%ED%8F%AC%EC%8A%A4%ED%84%B0_0624%28%EC%A0%80%EC%9A%A9%EB%9F%89%29.jpg?type=w1200)  
+- 기묘한 이야기  
+![기묘한 이야기](https://search.pstatic.net/common/?src=http%3A%2F%2Fpost.phinf.naver.net%2FMjAxOTAyMTRfMjY3%2FMDAxNTUwMTIyMzAzMjIw.CDo7I0ABPW4nyegVUdGmD_q9ebjM1dTNzEybfneZ8BQg.TqmxTi1lo4MDnJAuoi6Azf9lIdGja2FRPBxlyCRVKl8g.JPEG%2FI3XJr32KQay12pA08xg9y62KQO8Y.jpg&type=b400)
+- 굿 플레이스
+![굿 플레이스](http://blogfiles.naver.net/MjAxODAyMTdfMjUw/MDAxNTE4ODMzMjY2MTM1.emKE6wf8-DKrr40NQTbsakZH0Nme6Ik4phfqt1EUj8Yg.TiTyldSARbnL-ys--vu5EWSixvqUKi7YmMfJS6g-1Tgg.JPEG.harhhyks/MV5BMjI4MjAwOTg0OV5BMl5BanBnXkFtZTgwODU5ODE5ODE._V1_.jpg)
