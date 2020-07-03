@@ -43,10 +43,10 @@
 
 #5. java 기억에 남는 코드
 - for-each
-```int [] n = {1,2,3,4,5};
-int sum = 0;
-for(int k : n){
-    sum += k;
+```int [] n = {1,2,3,4,5};  
+int sum = 0;  
+for(int k : n){  
+    sum += k;  
 }
 System.out.println(sum);
 ```
